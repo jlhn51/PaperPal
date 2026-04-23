@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-PaperPal is a structured, document-centric workspace that helps research students deeply engage with academic papers by generating targeted summaries, concept explanations, and auto-generated flashcards. Unlike using ChatGPT directly, PaperPal provides a dedicated workspace per paper that preserves conversation context and organizes key concepts into bookmarks and flashcards for long-term retention.
+PaperPal is an AI research companion that helps research students — thesis writers, graduate students, and PhD researchers — deeply engage with academic papers through citation-grounded Q&A, targeted concept explanations, and spaced-repetition flashcards. Unlike using ChatGPT directly, PaperPal provides a dedicated workspace per paper that grounds every answer in the source text to reduce hallucination, preserves full conversation context, and organizes key concepts into a retention system designed for long-term learning.
 
 ## 2. Problem Statement
 
