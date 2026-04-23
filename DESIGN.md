@@ -6,6 +6,8 @@ PaperPal is an AI research companion that helps research students — thesis wri
 
 ## 2. Problem Statement
 
+Research students face daily exhaustion trying to understand dense academic papers. They struggle with dense concepts, forget much of what they read, and lose time on sections that turn out to be unimportant. A single technical paper takes 2-4 hours to read carefully, yet retention after a week is low — meaning much of that time is effectively lost. ChatGPT summaries help in the moment, but they're often too generic, miss connections between sections, and don't aid retention. Reading alone isn't much better — researchers finish papers feeling lost and without the ability to reference what they read later. Since progress in a field depends on absorbing many papers efficiently, this bottleneck compounds over a semester or a thesis.
+
 ## 3. Target User
 
 ## 4. Goals
